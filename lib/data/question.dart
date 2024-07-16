@@ -1,6 +1,6 @@
-import 'package:project_02/models/quizequestion.dart';
+import 'package:project_02/models/quize_question.dart';
 
-const quesquestion = [
+const quizquestion = [
   QuizeQuestion(
     'Flutter UI এর প্রধান নির্মাণ উপাদানগুলি কি কি?',
     [
